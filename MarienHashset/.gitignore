@@ -1,0 +1,48 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos generados
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.cache
+*.log
+*.config
+
+# Configuración local / entorno
+appsettings.Development.json
+appsettings.Local.json
+.env
+
+# Archivos de publicación
+PublishProfiles/
+*.pubxml
+*.publishsettings
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# Paquetes y dependencias
+packages/
+*.nupkg
+
+# Archivos temporales o de respaldo
+*.tmp
+*.bak
+*.orig
+*.temp
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
