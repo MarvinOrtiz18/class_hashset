@@ -7,11 +7,11 @@ Partiendo del programa anterior donde codificamos un CRUD usando HashSet en el l
 # 1. Create: Ingresar datos en el Hash
 - Insertar datos separados por coma en el Hash A y Hash B.
 
-# 2. Read: Nostrar datos del Hash
+# 2. Read: Mostrar datos del Hash
 - Mostrar los datos correspondientes al Hash A y Hash B.
 - Mostrar los valores de Unión, Intersección, Diferencia de A y B.
 
-# 3. Update: Actualizar datos del Hah
+# 3. Update: Actualizar datos del Hahs
 - Permitir actualizar un valor registrado en el Hash A y B
 - Verificar que el dato a ingresar no se encuentra almacenado ya en el Hash
 
@@ -22,7 +22,7 @@ Partiendo del programa anterior donde codificamos un CRUD usando HashSet en el l
 ## Extra
 
 # 4. Search: Buscar un dato en el Hash
-- Crear una función que permita encontrar un valor buscado por el usuario
+- Crear una función que permita encontrar un valor buscado por el usuarion dentro del Hash A y Hash B
 
 **Objetivo**: Tener al final un menú completo que permita acceder a cada una de las funciones básicas del CRUD.
 
